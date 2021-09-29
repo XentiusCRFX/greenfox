@@ -1,2 +1,2 @@
 # greenfox
-Practice stuff, nothing serious if have got confused
+Practice stuff, nothing serious if you have got confused
